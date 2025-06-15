@@ -11,4 +11,4 @@ arxiv: https://arxiv.org/abs/2502.01583
 code: 
 website:
 ---
-We provide a precise analysis of spectral methods recovering low-dimensional signal subspaces in multi-index models, revealing a phase transition phenomenon of when these methods succeed and enabling minimization of needed sample sizes.
+We provide a precise analysis of spectral methods for recovering low-dimensional signal subspaces in multi-index models, revealing a phase transition phenomenon that determines exactly when these methods succeed and enabling minimization of the needed sample size.
