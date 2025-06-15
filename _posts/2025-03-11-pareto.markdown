@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Learning Pareto manifolds in high dimensions: How can regularization help?"
+date:   2025-03-11 20:00:00 +00:00
+image: /images/pareto.png
+categories: research
+author: "Leo Keselman"
+authors: "Tobias Wegel, <strong>Filip Kovačević</strong>, Alexandru Ţifrea, Fanny Yang"
+venue: "AISTATS"
+arxiv: https://arxiv.org/abs/2503.08849
+poster: /pdfs/AISTATS_poster.pdf
+---
+We discuss how the application of vanilla regularization approaches can fail, and propose a two-stage MOL framework that can successfully leverage low-dimensional structure.
